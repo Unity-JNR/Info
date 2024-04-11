@@ -1,0 +1,28 @@
+{ 
+    "projects": [
+        {
+    "title":"Vintage Vibes"
+    ,"description":"Fullstack ecommerce about cars",
+    "url":"https://cdn-images.imagevenue.com/63/78/bb/ME17Z1KA_o.png",
+    "link":"https://vintage-vibes77.firebaseapp.com",
+    "github":"https://github.com/Unity-JNR/capstone.git"
+    },
+    
+        {
+    "title":"portfolio"
+    ,"description":"Made using vue and hosted api",
+    "url":"https://cdn-images.imagevenue.com/d8/cb/82/ME181YI2_o.png",
+    "link":"https://portfolio-4f932.firebaseapp.com",
+    "github":"https://github.com/Unity-JNR/portfolios.git"
+    },
+    
+        {
+    "title":"Only electonics"
+    ,"description":"Full stack ecommerce worked on with a partner",
+    "url":"https://cdn-images.imagevenue.com/1a/7c/69/ME181ZXP_o.png",
+    "link":"https://nodejs-server-65ed7.firebaseapp.com/",
+    "github":"https://github.com/brandonRoulstone/NodeJs-server.git"
+    }
+    
+]
+}
