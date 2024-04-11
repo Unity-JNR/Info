@@ -9,7 +9,7 @@
     },
     
         {
-    "title":"portfolio"
+    "title":"Portfolio"
     ,"description":"Made using vue and hosted api",
     "url":"https://cdn-images.imagevenue.com/d8/cb/82/ME181YI2_o.png",
     "link":"https://portfolio-4f932.firebaseapp.com",
@@ -22,6 +22,27 @@
     "url":"https://cdn-images.imagevenue.com/1a/7c/69/ME181ZXP_o.png",
     "link":"https://nodejs-server-65ed7.firebaseapp.com/",
     "github":"https://github.com/brandonRoulstone/NodeJs-server.git"
+    },
+        {
+    "title":"Capstone project"
+    ,"description":"fullstack ecommerce that sells houses",
+    "url":"https://cdn-images.imagevenue.com/f7/14/68/ME1820H7_o.png",
+    "link":"https://capstoneproject-604f7.firebaseapp.com/",
+    "github":"https://github.com/caelaward/capstone_project.git"
+    },
+        {
+    "title":"Portfolio"
+    ,"description":"Made using vue and hosted api",
+    "url":"https://cdn-images.imagevenue.com/7b/12/88/ME1820JM_o.png",
+    "link":"https://vue-portfolio-2537f.firebaseapp.com/",
+    "github":"https://github.com/caelaward/vue-portfolio.git"
+    },
+        {
+    "title":"Minutes to Seconds"
+    ,"description":"Changes the minutes to seconds, made by html css and Javascript",
+    "url":"https://cdn-images.imagevenue.com/b5/0f/5f/ME1820KW_o.png",
+    "link":"https://min-sec.vercel.app/",
+    "github":"https://github.com/caelaward/min-sec.git"
     }
 ]
 
